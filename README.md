@@ -10,3 +10,4 @@ The agent learns to race around a track through trial and error, improving its l
 - Visualization of training performance  
 - Save and load trained models  
 
+![rl_car_demo](https://github.com/user-attachments/assets/46b69742-fadc-436b-96d4-2545a6140131)
